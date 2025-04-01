@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1743056819 source:d:\bingxinhuanjing\bingxingproject\sum\main.cpp
+	<iostream>
+	<chrono>
+	<fstream>
+	<cstdlib>
+

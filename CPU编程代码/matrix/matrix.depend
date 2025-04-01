@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1743142727 source:d:\bingxinhuanjing\bingxingproject\matrix\main.cpp
+	<iostream>
+	<chrono>
+	<fstream>
+	<cstdlib>
+	<cmath>
+
